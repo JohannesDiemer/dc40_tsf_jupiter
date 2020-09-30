@@ -1,6 +1,6 @@
 # dc40_tsf_jupiter - Development Branch
 #
-# Version 1.0, 20.09.2020 - by Johannes Diemer, johannes.diemer@dc40.de
+# Version 1.0, 30.09.2020 - by Johannes Diemer, johannes.diemer@dc40.de
 #
 # Build file for Docker
 # based on Ubunut 20.04, Tensorflow, Python3 and Jupiter notebook
